@@ -3,7 +3,6 @@
 Requests alone doesn't work, because the number of likes is embedded via JavaScript dynamically.
 That's why we need to use either YouTube API (which has limited usage) or webdriver
 
-app pass: tijo yovp vprr waoj
 '''
 
 video_link = ""
